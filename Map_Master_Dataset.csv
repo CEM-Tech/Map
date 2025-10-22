@@ -1,5 +1,5 @@
 School District,MAP ID,ONSITE Value,VIRTUAL Value,Total Value
-Achievement School District,11271,9,15,24
+Achievement School District,11271,10,15,25
 Alamo City Schools,457,0,7,7
 Alcoa City Schools,11147,5,11,16
 Alvin C. York Agricultural Institute,3,0,1,1
@@ -7,7 +7,7 @@ Anderson County Schools,11149,3,4,7
 Arlington Community Schools,11154,4,11,15
 Athens City Elementary Schools,454,3,0,3
 Bartlett City Schools,11155,0,8,8
-Bedford County Schools,11156,74,89,163
+Bedford County Schools,11156,75,89,164
 Bells City Schools,458,0,4,4
 Benton County Schools,11157,0,4,4
 Bledsoe County Schools,11158,6,4,10
@@ -101,9 +101,9 @@ Millington Municipal Schools,11152,1,8,9
 Monroe County Schools,11229,0,2,2
 Moore County Schools,11231,13,30,43
 Morgan County Schools,11232,0,0,0
-Murfreesboro City Schools,453,197,123,320
+Murfreesboro City Schools,453,198,123,321
 Newport City Schools,450,0,1,1
-Oak Ridge City Schools,11234,3,5,8
+Oak Ridge City Schools,11234,3,6,9
 Obion County Schools,11235,1,3,4
 Oneida Special School District,11236,2,2,4
 Overton County Schools,11237,5,4,9
@@ -115,7 +115,7 @@ Putnam County Schools,11241,42,27,69
 Rhea County Schools,11242,9,13,22
 Richard City Special School District,11243,0,2,2
 Roane County Schools,11244,2,3,5
-Robertson County Schools,11245,17,41,58
+Robertson County Schools,11245,17,42,59
 Rogersville City School System,444,0,6,6
 Rutherford County Schools,11246,357,265,622
 Scott County Schools,11247,2,1,3
@@ -144,4 +144,4 @@ Weakley County Schools,11266,1,10,11
 West Carroll Special School District,11267,0,1,1
 White County Schools,11268,18,22,40
 Williamson County Schools,11269,98,89,187
-Wilson County Schools,11270,114,91,205
+Wilson County Schools,11270,115,91,206
