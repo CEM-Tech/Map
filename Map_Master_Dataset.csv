@@ -1,5 +1,5 @@
 School District,MAP ID,ONSITE Value,VIRTUAL Value,Total Value
-Achievement School District,11271,10,15,25
+Achievement School District,11271,10,16,26
 Alamo City Schools,457,0,7,7
 Alcoa City Schools,11147,5,11,16
 Alvin C. York Agricultural Institute,3,0,1,1
@@ -57,7 +57,7 @@ Hamilton County Schools,11191,43,24,67
 Hancock County Schools,11192,2,4,6
 Hardeman County Schools,11193,0,2,2
 Hardin County Schools,11194,1,3,4
-Hawkins County Schools,11195,3,26,29
+Hawkins County Schools,11195,3,27,30
 Haywood County Schools,11196,0,7,7
 Henderson County Schools,11197,0,5,5
 Henry County Schools,11198,4,6,10
@@ -89,7 +89,7 @@ Manchester City Schools,449,23,39,62
 Marion County Schools,11220,17,18,35
 Marshall County Schools,11221,10,18,28
 Maryville City Schools,11222,18,8,26
-Maury County Public Schools,11223,105,70,175
+Maury County Public Schools,11223,105,71,176
 McKenzie Special School District,11224,0,2,2
 McMinn County Schools,11225,4,0,4
 McNairy County Schools,11226,0,2,2
@@ -143,5 +143,5 @@ Wayne County Schools,11265,8,14,22
 Weakley County Schools,11266,1,10,11
 West Carroll Special School District,11267,0,1,1
 White County Schools,11268,18,22,40
-Williamson County Schools,11269,99,89,188
+Williamson County Schools,11269,100,89,189
 Wilson County Schools,11270,116,91,207
